@@ -1,4 +1,3 @@
-### 🔭 I’m currently working on ...
 
 R&D Software Engineer at Broadcom developing systems and methods for automatic threat hunting: malicious network traffic analysis, malware analysis, unknown threat categorization, messaging abuse filters, APT detection and attack chain inference based on machine learning.
 
@@ -17,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/alejandromosquera"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
