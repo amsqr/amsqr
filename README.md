@@ -1,23 +1,14 @@
 
 R&D Software Engineer at Broadcom developing systems and methods for automatic threat hunting: malicious network traffic analysis, malware analysis, unknown threat categorization, messaging abuse filters, APT detection and attack chain inference based on machine learning.
 
-<!--
-**amsqr/amsqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All my GitHub repositories are of personal nature, and have no relationship with my work activities.
 
 
+Social accounts:
+<a href="https://twitter.com/amsqr"><img alt="Twitter" width="20" style="max-width: 100%;" src="tw.svg"/></a>
+<a href="https://www.linkedin.com/in/alejandromosquera"><img alt="LinkedIn" width="20" style="max-width: 100%;" src="in.svg"/></a>
+<a href="https://www.mosquera.info"><img alt="Instagram" width="20" style="max-width: 100%;" src="im.svg"/></a>
 
-<a href="https://www.linkedin.com/in/alejandromosquera"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.alejandromosquera.net/"><img alt="Blog" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a><a href="https://www.mosquera.info/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+Personal webpage: <a href="https://amsqr.com"> amsqr.com</a>
+
+Blog: <a href="https://alejandromosquera.net"> alejandromosquera.net</a>
