@@ -10,9 +10,7 @@ Social accounts:
 <a href="https://www.linkedin.com/in/alejandromosquera"><img alt="LinkedIn" width="20" style="max-width: 100%;" src="in.svg"/></a>
 <a href="https://www.mosquera.info"><img alt="Instagram" width="20" style="max-width: 100%;" src="im.svg"/></a>
 
-Personal webpage: <a href="https://amsqr.com"> amsqr.com</a>
-
-Blog: <a href="https://alejandromosquera.net"> alejandromosquera.net</a>
+Personal webpage:  <a href="https://alejandromosquera.net"> alejandromosquera.net</a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amsqr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsqr)](https://github.com/anuraghazra/github-readme-stats)
