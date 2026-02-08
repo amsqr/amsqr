@@ -5,7 +5,7 @@ Sometimes I [blog](https://alejandro-mosquera.medium.com/). You can also find me
 
 ### Highlights
 ***
-* 2026 - 🏆3rd place (out of 81 teams) at SemEval-2026 Task 13 Subtask-A: [Detecting AI-generated code in OOD settings](https://www.kaggle.com/competitions/sem-eval-2026-task-13-subtask-a/leaderboard)
+* 2026 - 🏆2nd place (out of 81 teams) at SemEval-2026 Task 13 Subtask-A: [Detecting AI-generated code in OOD settings](https://www.kaggle.com/competitions/sem-eval-2026-task-13-subtask-a/leaderboard)
 * 2025 - 8th/221 at Trojan Horse Hunt in Time Series Forecasting: [Part of the Secure Your AI series of competitions by the European Space Agency](https://www.kaggle.com/competitions/trojan-horse-hunt-in-space/writeups/a-hybrid-approach-to-trojan-detection)
 * 2024 - 🥇1st place at Personality Profiling Task: [WASSA 2024 Shared Task on Empathy and Personality Detection](https://alejandro-mosquera.medium.com/amsqr-at-wassa-2024-empathy-and-personality-shared-task-dynamic-personality-profiling-in-1ac1c793cf7f)
 * 2024 - 🏆3rd place (out of 50 teams) at SemEval-2024 Task 6: [SHROOM - a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes](https://alejandro-mosquera.medium.com/detecting-llm-hallucinations-and-overgeneration-mistakes-semeval-2024-cbd54200bb60)
